@@ -8,7 +8,13 @@
 \usepackage[top=1in,bottom=1in,left=1in,right=1in,paper=a4paper]{geometry}
 \usepackage{graphicx,float}
 \usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage[immediate]{silence}
+\WarningFilter[temp]{latex}{Command} % silence the warning
+\usepackage{sectsty}
+\DeactivateWarningFilters[temp] % So nothing unrelated gets silenced
 \usepackage[most]{tcolorbox}
+\usepackage{textcomp}
 \usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools,gensymb}
 \usepackage{hyperref}
 \usepackage{tikz}
@@ -22,17 +28,20 @@
 \usepackage[twoside]{fancyhdr}
 \usepackage[parfill]{parskip}
 \usepackage{multicol}
-\usepackage{sectsty}
 \usepackage{pgfplots}
 \pgfplotsset{compat=1.15}
 \usepackage{mathrsfs}
 \usetikzlibrary{arrows}
 \usepackage{fontawesome5}
 \usepackage{titlesec}
-\usepackage{tocloft}
 %\usepackage{mathpazo}
 
 \usetikzlibrary{arrows.meta, decorations.pathreplacing,calc}
+
+\makeatletter % disable the runtime redefinitions
+\let\SS@makeulinesect\relax
+\let\SS@makeulinepartchap\relax
+\makeatother
 
 
 % -= Settings =-
@@ -272,7 +281,7 @@
 }
 
 \newenvironment{solution}[1][Lời giải]{%
-  \proof[\faPenNib \hspace{0.2cm} \ttfamily \scshape \large #1]%
+  \proof[\normalfont \faPenNib \hspace{0.2cm} \ttfamily \scshape \large #1]%
 }{\(\hfill \blacksquare\){\parfillskip0pt\par}}
 
 \newtheorem{exercise}{Bài}
@@ -287,6 +296,8 @@
 \fancyhead[LE]{\footnotesize \thepage}
 \fancyhead[LO]{\footnotesize \leftmark}
 \fancyfoot{}
+
+
 
 % \fancyhead[L]{\hspace{-1.75cm} \textbf{50 Geometry Problems}} % tiêu đề bài viết
 % \fancyhead[R]{%
@@ -304,10 +315,6 @@
 \renewcommand{\footrulewidth}{0pt}
 
 % Section title
-
-% \title{\textbf{\Huge 50 Geometry Problems}}
-% \author{\LARGE \textsc{Mark Nguyen}}
-% \date{\sffamily Every journey is a lesson to be learned from.}
 
 \makeatletter
 \titleformat{\section}
