@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  3 FEB 2025 15:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  3 FEB 2025 20:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1139,7 +1139,8 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 
 {C:/Users/84917/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
-[-1
+[1
+
 
 ] (101GeometryProblems.toc)
 \tf@toc=\write5
@@ -1147,13 +1148,15 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 
 
 
-[0
+[2
 
-] (tex/theory.tex
-LaTeX Font Info:    Trying to load font information for T5+cmss on input line 1.
+]
+LaTeX Font Info:    Trying to load font information for T5+cmss on input line 98.
  (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmss.fd
 File: t5cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
+
+[3] (tex/theory.tex
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 8.
  (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 30.
@@ -1164,7 +1167,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 <to be read again> 
                    \relax 
 l.44         \end{property}
-                            [1{C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}]
+                            [1
+
+{C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}]
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 53.
  (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
 LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 57.
@@ -1256,7 +1261,7 @@ l.466             \begin{equation}
 
 [29]
 
-[30]) (tex/solution.tex
+[30]) (tex/exercises.tex
 Overfull \hbox (15.10815pt too wide) in paragraph at lines 69--70
  [] 
  []
@@ -1372,17 +1377,17 @@ Package rerunfilecheck Info: File `101GeometryProblems.out' has not changed.
 (rerunfilecheck)             Checksum: D3DC3EDE77B2E106839E87181FA5DC5A;4801.
  ) 
 Here is how much of TeX's memory you used:
- 46270 strings out of 473536
- 1084542 string characters out of 5714956
- 1655353 words of memory out of 5000000
- 68579 multiletter control sequences out of 15000+600000
+ 46279 strings out of 473536
+ 1084691 string characters out of 5714956
+ 1656362 words of memory out of 5000000
+ 68586 multiletter control sequences out of 15000+600000
  592751 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  103i,16n,110p,1268b,1387s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1200.pk> <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1440.pk><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vncsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnssbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntcsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb>
-Output written on 101GeometryProblems.pdf (50 pages, 681431 bytes).
+Output written on 101GeometryProblems.pdf (51 pages, 682296 bytes).
 PDF statistics:
- 646 PDF objects out of 1000 (max. 8388607)
- 170 named destinations out of 1000 (max. 500000)
+ 650 PDF objects out of 1000 (max. 8388607)
+ 171 named destinations out of 1000 (max. 500000)
  317 words of extra memory for PDF output out of 10000 (max. 10000000)
 

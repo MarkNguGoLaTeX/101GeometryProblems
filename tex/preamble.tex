@@ -321,3 +321,27 @@
 
 \renewcommand{\cfttoctitlefont}{\hfill\bfseries\LARGE}
 \renewcommand{\cftaftertoctitle}{\hfill\hspace{-1cm}}
+
+
+\makeatletter
+
+\newcommand\frontmatter{%
+    \cleardoublepage
+  %\@mainmatterfalse
+  \pagenumbering{roman}}
+
+\newcommand\mainmatter{%
+    \cleardoublepage
+ % \@mainmattertrue
+  \pagenumbering{arabic}}
+
+\newcommand\backmatter{%
+  \if@openright
+    \cleardoublepage
+  \else
+    \clearpage
+  \fi
+ % \@mainmatterfalse
+   }
+
+\makeatother

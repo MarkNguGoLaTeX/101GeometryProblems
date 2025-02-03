@@ -79,7 +79,7 @@
         
     \end{titlepage}
 
-    \setcounter{page}{-1}
+    \frontmatter
 
     \clearpage
     \begin{center}
@@ -95,8 +95,12 @@
 
     \newpage
 
-    \input{tex/theory.tex}
+    \part*{Lời nói đầu}
 
-    \input{tex/solution.tex}
+    \mainmatter
+
+    \input{tex/theory}
+
+    \input{tex/exercises}
 
 \end{document}
