@@ -488,7 +488,6 @@ INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\vntex\t5cmss.fd
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\vntex\t5cmss.fd
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\vntex\t5cmss.fd
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vnssbx10.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vnr8.tfm
 INPUT .\tex\theory.tex
 INPUT .\tex\theory.tex
 INPUT .\tex\theory.tex
@@ -511,6 +510,7 @@ INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufonta
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree0.fd
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree0.fd
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free0solid.tfm
+INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vnr8.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free2.enc
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free0.enc
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree1.fd

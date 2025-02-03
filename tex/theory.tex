@@ -488,7 +488,7 @@
             Cho hai đường thẳng \(d\), \(d'\) và một điểm \(S\) không thuộc \(d\), \(d'\). Xét ánh xạ \(f: d \to d'\), được xác định như sau: \(f(M) = M'\) sao cho \(S\), \(M\), \(M'\) thẳng hàng. Khi đó \(f\) được gọi là phép chiếu xuyên tâm. Điểm \(S\) được gọi là tâm chiếu của \(f\).
         \end{definition}
 
-        Nhờ phép chiếu xuyên tâm, ta có thể phát biểu lại định lí về tỉ số kép của chùm đường thẳng: \textit{Phép chiếu xuyên tâm bảo toàn tỉ số kép.} Tức là qua phép chiếu xuyên tâm \(O\)
+        Nhờ phép chiếu xuyên tâm, ta có thể phát biểu lại định lí về tỉ số kép của chùm đường thẳng: \textit{Phép chiếu xuyên tâm bảo toàn tỉ số kép.} Nói cách khác, xét hai đường thẳng \(\Delta\) và \(\Delta'\), bốn điểm \(A\), \(B\), \(C\), \(D\) thuộc \(\Delta\) và một điểm \(O\) không thuộc \(\Delta\); qua phép chiếu \(f\) xuyên tâm \(O\)
         \begin{equation}
             \begin{aligned}
                 f: \Delta & \to \Delta' \\
@@ -508,7 +508,7 @@
         \end{itemize}
 
         \begin{center}
-            \begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1cm,y=1cm]
+            \begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1cm,y=1cm,scale=0.8]
                 \draw [line width=0.4pt] (-4,0)-- (5,0);
                 \draw [line width=0.4pt] (-1,5)-- (-4,0);
                 \draw [line width=0.4pt] (-1,5)-- (0.5,0);
@@ -615,9 +615,7 @@
         \end{center}
 
         \begin{proof}
-            Trong trường hợp \(AA'\), \(BB'\), \(CC'\) đôi một song song thì ta dễ dàng chứng minh theo định lí Thalès. Ta xét trường hợp \(AA'\), \(BB'\), \(CC'\) đồng quy.
-
-            Gọi \(P\) là giao của \(AA'\) và \(BB'\); \(C''\) là giao của \(PC'\) và đường thẳng \(d\). Xét phép chiếu xuyên tâm \(P\) đi từ \(d'\) vào \(d\): \(O \mapsto O\), \(A' \mapsto A\), \(B' \mapsto B\), \(C' \mapsto C''\). Phép chiếu này bảo toàn tỉ số kép, hay ta có \((O,A';B',C') = (O,A;B,C'')\). Do đó \((O,A;B,C) = (O,A';B',C')\) khi và chỉ khi \((O,A;B,C) = (O,A;B,C'')\), tương đương \(C \equiv C''\) hay \(AA'\), \(BB'\), \(CC'\) đồng quy.
+            Gọi \(P\) là giao của \(AA'\) và \(BB'\); \(C''\) là giao của \(PC'\) và đường thẳng \(d\). Xét phép chiếu xuyên tâm \(P\) đi từ \(d'\) vào \(d\): \(O \mapsto O\), \(A' \mapsto A\), \(B' \mapsto B\), \(C' \mapsto C''\). Phép chiếu này bảo toàn tỉ số kép, hay ta có \((O,A';B',C') = (O,A;B,C'')\). Do đó \((O,A;B,C) = (O,A';B',C')\) khi và chỉ khi \((O,A;B,C) = (O,A;B,C'')\), tương đương \(C \equiv C''\) hay \(AA'\), \(BB'\), \(CC'\) đồng quy hoặc đôi một song song (đồng quy tại điểm vô cùng).
         \end{proof}
 
         \begin{property}
