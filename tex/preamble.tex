@@ -19,7 +19,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[titletoc,title]{appendix}
 \usepackage{xcolor}
-\usepackage{fancyhdr}
+\usepackage[twoside]{fancyhdr}
 \usepackage[parfill]{parskip}
 \usepackage{multicol}
 \usepackage{sectsty}
@@ -282,19 +282,26 @@
 
 % Header
 
-\fancyhead[L]{\hspace{-1.75cm} \textbf{50 Geometry Problems}} % tiêu đề bài viết
-\fancyhead[R]{%
-    \makebox[-160pt][c]{
-        \fboxsep=1.51pt
-        \colorbox{headerbg}{\parbox[b][15pt][b]{\dimexpr\textwidth-3in\relax}{
-            \hspace{0.56cm}
-            {\textbf{\textcolor{headertext}{Mark Nguyen}}}
-            \vspace{0.075cm}
-        }}
-    }
-}
+\fancyhead[RO]{\footnotesize \thepage}
+\fancyhead[RE]{\footnotesize \textbf{101 BÀI TOÁN HÌNH HỌC PHẲNG}}
+\fancyhead[LE]{\footnotesize \thepage}
+\fancyhead[LO]{\footnotesize \leftmark}
+\fancyfoot{}
 
-\renewcommand{\headrulewidth}{0pt}
+% \fancyhead[L]{\hspace{-1.75cm} \textbf{50 Geometry Problems}} % tiêu đề bài viết
+% \fancyhead[R]{%
+%     \makebox[-160pt][c]{
+%         \fboxsep=1.51pt
+%         \colorbox{headerbg}{\parbox[b][15pt][b]{\dimexpr\textwidth-3in\relax}{
+%             \hspace{0.56cm}
+%             {\textbf{\textcolor{headertext}{Mark Nguyen}}}
+%             \vspace{0.075cm}
+%         }}
+%     }
+% }
+
+% \renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
 
 % Section title
 

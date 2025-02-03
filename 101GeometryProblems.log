@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  2 FEB 2025 23:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  3 FEB 2025 15:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1256,26 +1256,133 @@ l.466             \begin{equation}
 
 [29]
 
-[30]) (101GeometryProblems.aux)
+[30]) (tex/solution.tex
+Overfull \hbox (15.10815pt too wide) in paragraph at lines 69--70
+ [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T5/cmtt/m/scit' undefined
+(Font)              using `T5/cmtt/m/sc' instead on input line 73.
+
+
+
+[31]
+
+[32]
+
+LaTeX Font Warning: Font shape `T5/cmtt/m/scit' undefined
+(Font)              using `T5/cmtt/m/sc' instead on input line 194.
+
+
+
+[33]
+
+LaTeX Font Warning: Font shape `T5/cmtt/m/scit' undefined
+(Font)              using `T5/cmtt/m/sc' instead on input line 287.
+
+
+
+[34]
+
+[35]
+
+LaTeX Font Warning: Font shape `T5/cmtt/m/scit' undefined
+(Font)              using `T5/cmtt/m/sc' instead on input line 375.
+
+
+
+[36]
+
+LaTeX Font Warning: Font shape `T5/cmtt/m/scit' undefined
+(Font)              using `T5/cmtt/m/sc' instead on input line 454.
+
+
+
+[37]
+
+LaTeX Font Warning: Font shape `T5/cmtt/m/scit' undefined
+(Font)              using `T5/cmtt/m/sc' instead on input line 548.
+
+
+
+[38]
+
+LaTeX Font Warning: Font shape `T5/cmtt/m/scit' undefined
+(Font)              using `T5/cmtt/m/sc' instead on input line 647.
+
+
+
+[39]
+
+[40]
+
+LaTeX Font Warning: Font shape `T5/cmtt/m/scit' undefined
+(Font)              using `T5/cmtt/m/sc' instead on input line 750.
+
+
+
+[41]
+
+LaTeX Font Warning: Font shape `T5/cmtt/m/scit' undefined
+(Font)              using `T5/cmtt/m/sc' instead on input line 855.
+
+
+
+[42]
+
+[43]
+
+LaTeX Font Warning: Font shape `T5/cmtt/m/scit' undefined
+(Font)              using `T5/cmtt/m/sc' instead on input line 980.
+
+
+LaTeX Font Warning: Font shape `T5/cmtt/m/scit' undefined
+(Font)              using `T5/cmtt/m/sc' instead on input line 990.
+
+
+
+[44]
+
+LaTeX Font Warning: Font shape `T5/cmtt/m/scit' undefined
+(Font)              using `T5/cmtt/m/sc' instead on input line 1107.
+
+
+
+[45]
+
+LaTeX Font Warning: Font shape `T5/cmtt/m/scit' undefined
+(Font)              using `T5/cmtt/m/sc' instead on input line 1187.
+
+
+
+[46]
+
+LaTeX Font Warning: Font shape `T5/cmtt/m/scit' undefined
+(Font)              using `T5/cmtt/m/sc' instead on input line 1261.
+
+)
+
+[47] (101GeometryProblems.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
 Package rerunfilecheck Info: File `101GeometryProblems.out' has not changed.
-(rerunfilecheck)             Checksum: 61C397FFBD86D952CFF2104AE73B4487;4589.
+(rerunfilecheck)             Checksum: D3DC3EDE77B2E106839E87181FA5DC5A;4801.
  ) 
 Here is how much of TeX's memory you used:
- 45695 strings out of 473536
- 1069009 string characters out of 5714956
- 1656700 words of memory out of 5000000
- 68042 multiletter control sequences out of 15000+600000
- 590798 words of font info for 102 fonts, out of 8000000 for 9000
+ 46270 strings out of 473536
+ 1084542 string characters out of 5714956
+ 1655353 words of memory out of 5000000
+ 68579 multiletter control sequences out of 15000+600000
+ 592751 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 103i,17n,110p,1268b,1387s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1200.pk> <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1440.pk><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vncsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnssbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntcsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb>
-Output written on 101GeometryProblems.pdf (33 pages, 531818 bytes).
+ 103i,16n,110p,1268b,1387s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1200.pk> <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1440.pk><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vncsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnssbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntcsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb>
+Output written on 101GeometryProblems.pdf (50 pages, 681431 bytes).
 PDF statistics:
- 535 PDF objects out of 1000 (max. 8388607)
- 136 named destinations out of 1000 (max. 500000)
- 309 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 646 PDF objects out of 1000 (max. 8388607)
+ 170 named destinations out of 1000 (max. 500000)
+ 317 words of extra memory for PDF output out of 10000 (max. 10000000)
 
