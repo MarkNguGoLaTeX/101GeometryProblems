@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  3 FEB 2025 22:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  5 FEB 2025 14:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1133,22 +1133,23 @@ Package gensymb Info: Using \textmu for \micro on input line 22.
 Couldn't patch \deferred@thm@head!
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.15).
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 53.
-(C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+(tex/bookcover.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+ (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 53.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
  (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 53.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 30.
  (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 
 [1
 
-{C:/Users/84917/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+{C:/Users/84917/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
 
 [1
 
@@ -1162,7 +1163,7 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 [2
 
 ]
-LaTeX Font Info:    Trying to load font information for T5+cmss on input line 99.
+LaTeX Font Info:    Trying to load font information for T5+cmss on input line 43.
  (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmss.fd
 File: t5cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
@@ -1275,15 +1276,15 @@ l.5     \section{Đề bài}
                             
 
 [31]
-pdfTeX warning (ext4): destination with the same identifier (name{section.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.9     \section{Lời giải}
-                              
 
 [32]
 
 [33]
+pdfTeX warning (ext4): destination with the same identifier (name{section.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.127     \section{Lời giải}
+                                
 
 [34]
 
@@ -1311,9 +1312,13 @@ l.9     \section{Lời giải}
 
 [46]
 
-[47])
+[47]
 
-[48] (101GeometryProblems.aux)
+[48]
+
+[49])
+
+[50] (101GeometryProblems.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
@@ -1322,17 +1327,17 @@ Package rerunfilecheck Info: File `101GeometryProblems.out' has not changed.
 (rerunfilecheck)             Checksum: 5CBDFA943A72ABD88CF8871DD3386474;5004.
  ) 
 Here is how much of TeX's memory you used:
- 46487 strings out of 473536
- 1088103 string characters out of 5714956
- 1659624 words of memory out of 5000000
- 68782 multiletter control sequences out of 15000+600000
+ 46523 strings out of 473536
+ 1088917 string characters out of 5714956
+ 1659772 words of memory out of 5000000
+ 68799 multiletter control sequences out of 15000+600000
  594118 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  103i,16n,110p,1268b,1387s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1200.pk> <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1440.pk><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vncsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnssbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntcsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb>
-Output written on 101GeometryProblems.pdf (52 pages, 684749 bytes).
+Output written on 101GeometryProblems.pdf (54 pages, 698804 bytes).
 PDF statistics:
- 663 PDF objects out of 1000 (max. 8388607)
- 172 named destinations out of 1000 (max. 500000)
+ 689 PDF objects out of 1000 (max. 8388607)
+ 188 named destinations out of 1000 (max. 500000)
  333 words of extra memory for PDF output out of 10000 (max. 10000000)
 

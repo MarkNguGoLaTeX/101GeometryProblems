@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1738597063.56659 "c:/Users/84917/Dropbox/PC/Desktop/LaTeX/101GeometryProblems/101GeometryProblems.tex" "101GeometryProblems.pdf" "101GeometryProblems" 1738597076.96024 0
-  "101GeometryProblems.aux" 1738597076 3277 6723e8f9852d5fe736cf821a7ade4636 "pdflatex"
-  "101GeometryProblems.out" 1738597076 5004 5cbdfa943a72abd88cf8871dd3386474 "pdflatex"
-  "101GeometryProblems.tex" 1738594847 3796 3ece59fa4c1d7e9931f86aca2315582b ""
-  "101GeometryProblems.toc" 1738597076 2162 cc03ca004b7764d0a751c7b0723c2a8f "pdflatex"
+["pdflatex"] 1738740650.86533 "c:/Users/84917/Dropbox/PC/Desktop/LaTeX/101GeometryProblems/101GeometryProblems.tex" "101GeometryProblems.pdf" "101GeometryProblems" 1738740671.77827 0
+  "101GeometryProblems.aux" 1738740670 3277 f8808b33d6a7bafd1684cbb7e61eae97 "pdflatex"
+  "101GeometryProblems.out" 1738740670 5004 5cbdfa943a72abd88cf8871dd3386474 "pdflatex"
+  "101GeometryProblems.tex" 1738740649 2260 0700807ed952a448a343d866107bc6ef ""
+  "101GeometryProblems.toc" 1738740670 2162 88a0430ea08cd684d6224c136d7026e9 "pdflatex"
   "C:/Users/84917/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1738593385 91071 324d1172d69408ba82bb364085701049 ""
   "C:/Users/84917/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1737886271 11548 5ce37e077a72279e895932ccfb087816 ""
   "C:/Users/84917/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcsx1200.pk" 1737886273 14220 f7cbaf869fe58df3434303363f895548 ""
@@ -323,9 +323,10 @@
   "C:/Users/84917/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vietnam.sty" 1368738347 2477 91784aa2c9213f74609391e3cae65a13 ""
   "C:/Users/84917/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vncaps.tex" 1368738347 3273 a55ebdb07413d2fea580f210e3c0b252 ""
   "C:/Users/84917/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/84917/Dropbox/PC/Desktop/LaTeX/101GeometryProblems/101GeometryProblems.tex" 1738594847 3796 3ece59fa4c1d7e9931f86aca2315582b ""
-  "tex/exercises.tex" 1738596292 130836 e61926f326b8c429162ced71e77f73f4 ""
-  "tex/preamble.tex" 1738593696 14064 82847eadd93607868b4724158e054509 ""
+  "c:/Users/84917/Dropbox/PC/Desktop/LaTeX/101GeometryProblems/101GeometryProblems.tex" 1738740649 2260 0700807ed952a448a343d866107bc6ef ""
+  "tex/bookcover.tex" 1738740649 1353 c8aecdbc7028958627f23266f9b58304 ""
+  "tex/exercises.tex" 1738725073 141212 565f6fb9613c6d61185c684bd9cd2ab8 ""
+  "tex/preamble.tex" 1738739385 14146 c4c6bf5f902d6f398924a179f9b02e8a ""
   "tex/theory.tex" 1738597052 134199 62d7fac14413decbcf6ca09d2920c580 ""
   (generated)
   "101GeometryProblems.aux"

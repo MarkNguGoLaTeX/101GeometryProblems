@@ -419,6 +419,11 @@ INPUT 101GeometryProblems.out
 INPUT .\101GeometryProblems.out
 INPUT .\101GeometryProblems.out
 OUTPUT 101GeometryProblems.out
+INPUT .\tex\bookcover.tex
+INPUT .\tex\bookcover.tex
+INPUT .\tex\bookcover.tex
+INPUT .\tex\bookcover.tex
+INPUT tex\bookcover.tex
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vncsc10.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vncsc10.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vncsc10.tfm
